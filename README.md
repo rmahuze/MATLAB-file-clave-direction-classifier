@@ -5,3 +5,6 @@ a rhythmic-regulative principle in Afro-Latin music similar to a key in a
 music, 
 into four different types of clave direction classes based on
 partido-alto paradigm
+
+Data for this classifier was obtained from 
+UCI Machine Learning Repositotry https://archive.ics.uci.edu/ml/datasets/Firm-Teacher_Clave-Direction_Classification 
